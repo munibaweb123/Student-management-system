@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "name": "@muniba1234/student-management-system",
+  "bin":{
+    "student-management-system":"main.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
